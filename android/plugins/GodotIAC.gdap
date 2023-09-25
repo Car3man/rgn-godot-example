@@ -1,0 +1,11 @@
+[config]
+
+name="GodotIAC"
+binary_type="local"
+binary="GodotIAC.aar"
+
+[dependencies]
+
+local=[]
+remote=[]
+custom_maven_repos=[]

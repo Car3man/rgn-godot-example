@@ -1,0 +1,17 @@
+[config]
+name="GodotIAC"
+binary="iac.xcframework"
+
+initialization="godot_iac_init"
+deinitialization="godot_iac_deinit"
+
+[dependencies]
+linked=[]
+embedded=[]
+system=[]
+
+capabilities=[]
+
+files=[]
+
+[plist]
